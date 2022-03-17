@@ -11,4 +11,5 @@ Any user of this bot has access to several commands:
 
 /меню
 
-
+The bot can be easily added into a chat. What is more, if you are also an admin of this chat, you can give it /модератор command.
+The bot will answer you in person and you will be given all necessary commands to edit the menu of the restaurant
