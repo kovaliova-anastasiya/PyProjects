@@ -5,3 +5,5 @@ Any user of this bot has access to several commands:
 /расположение
 /режим_работы
 /меню
+
+
